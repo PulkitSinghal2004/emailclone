@@ -13,3 +13,5 @@ Frontend :- React.js,
             Framer Motion (Animation Library)
             
 Backend:- Firebase (Authentication & Database)
+
+This will start the project at https://email-clone-80c99.web.app/
