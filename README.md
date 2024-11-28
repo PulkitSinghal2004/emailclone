@@ -6,9 +6,10 @@ Features:- User Authentication (Sign In with Google),
            Responsive Design,
 
 Technologies Used :-
+
 Frontend :- React.js,
             Redux Toolkit (State Management),
             Tailwind CSS (Utility-first CSS Framework),
-            Framer Motion (Animation Library),
+            Framer Motion (Animation Library)
             
 Backend:- Firebase (Authentication & Database)
